@@ -9,7 +9,7 @@
   * byte - 1bytes - 8bits
 
 ```
-**Java没有任何无符号类型(unsigned)
+Java没有任何无符号类型(unsigned)
 ```
 
 **浮点类型**
